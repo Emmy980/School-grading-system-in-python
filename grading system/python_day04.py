@@ -1,5 +1,5 @@
 # Grading system
-# print("Goodmorning")
+print("Grading system")
 
 name = input("enter your name: ")
 score = int(input("Enter your score: "))
@@ -19,5 +19,6 @@ elif score >= 0 and score <=34:
 else:
     print("Wrong score input!!!")
     print("Enter a score between 0 and 100")
+
 
 
